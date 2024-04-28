@@ -1,0 +1,38 @@
+Plant: 1
+Tree: 11
+Car: 17
+Wheel: 10
+Window: 5
+Building: 6
+Land vehicle: 7
+House: 1
+Tire: 2
+Traffic sign: 3
+Human face: 54
+Woman: 33
+Clothing: 55
+Girl: 7
+Human head: 1
+Footwear: 4
+High heels: 6
+Person: 39
+Human leg: 4
+Sandal: 2
+Auto part: 1
+Bathtub: 2
+Tap: 2
+Sink: 2
+Plumbing fixture: 1
+Vehicle: 1
+Human hand: 3
+Human hair: 3
+Rabbit: 10
+Animal: 9
+Man: 24
+Human nose: 2
+Snowman: 1
+Book: 1
+Dress: 5
+Flowerpot: 1
+Suit: 1
+Poster: 1

@@ -1,0 +1,19 @@
+Footwear: 9
+Person: 19
+Table: 2
+Clothing: 11
+Furniture: 1
+Human leg: 1
+Human hand: 20
+Cosmetics: 1
+Bottle: 2
+Light bulb: 1
+Human face: 11
+Flower: 2
+Human nose: 1
+Human eye: 1
+Animal: 1
+Boy: 8
+Human head: 2
+Bathtub: 1
+Personal care: 5

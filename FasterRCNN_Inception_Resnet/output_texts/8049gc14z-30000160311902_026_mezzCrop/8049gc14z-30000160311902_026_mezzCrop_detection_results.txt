@@ -1,0 +1,28 @@
+Poster: 15
+Person: 4
+Mammal: 10
+Wheel: 17
+Animal: 6
+Human face: 12
+Vehicle: 2
+Footwear: 2
+Whiteboard: 4
+Bird: 4
+Clock: 13
+Wall clock: 12
+Toy: 3
+Flowerpot: 3
+Christmas tree: 1
+Stool: 1
+Tower: 8
+Guitar: 1
+Flower: 2
+Dog: 1
+Butterfly: 1
+Window: 1
+Plate: 5
+Platter: 2
+Parachute: 1
+Balloon: 2
+Ball: 1
+Coin: 1

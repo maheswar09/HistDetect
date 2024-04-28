@@ -1,0 +1,31 @@
+Window: 3
+Clothing: 31
+Person: 16
+Man: 17
+Plant: 1
+Toy: 1
+Human face: 17
+Human hand: 3
+Tableware: 2
+Auto part: 2
+Wheel: 1
+Footwear: 3
+Boot: 1
+Dairy: 2
+Kitchen appliance: 4
+Oven: 3
+Microwave oven: 2
+Musical keyboard: 1
+Piano: 1
+Food: 3
+Adhesive tape: 2
+Coffee cup: 1
+Vase: 1
+Cake: 2
+Cream: 1
+Table: 1
+Bottle: 1
+Animal: 1
+Suit: 2
+Boy: 2
+Poster: 3

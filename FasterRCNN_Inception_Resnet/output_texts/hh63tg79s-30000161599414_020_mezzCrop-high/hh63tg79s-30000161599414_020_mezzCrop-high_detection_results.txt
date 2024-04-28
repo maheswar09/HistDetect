@@ -1,0 +1,23 @@
+Flower: 189
+Rose: 5
+Tree: 2
+Food: 39
+Snack: 8
+Cheese: 4
+Dessert: 5
+Baked goods: 3
+Towel: 1
+Box: 10
+Poster: 8
+Book: 1
+Drink: 7
+Table: 22
+Tableware: 12
+Apple: 1
+Coffee cup: 2
+Plate: 2
+Spoon: 5
+Houseplant: 5
+Flowerpot: 5
+Jug: 5
+Pitcher: 5

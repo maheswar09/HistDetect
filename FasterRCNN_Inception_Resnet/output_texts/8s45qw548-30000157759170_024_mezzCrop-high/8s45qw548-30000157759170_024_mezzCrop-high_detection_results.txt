@@ -1,0 +1,19 @@
+Person: 29
+Clothing: 11
+Human head: 6
+Human face: 9
+Mammal: 14
+Man: 6
+Hat: 1
+Poster: 19
+Vehicle: 6
+Human leg: 1
+Animal: 3
+Auto part: 1
+Flower: 1
+Wheel: 1
+Airplane: 1
+Whiteboard: 6
+Human eye: 1
+Envelope: 1
+Traffic sign: 4

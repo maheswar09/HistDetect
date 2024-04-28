@@ -1,0 +1,16 @@
+Car: 30
+Clothing: 24
+Wheel: 30
+Person: 28
+Human face: 2
+Tire: 6
+Trousers: 2
+Toy: 2
+Footwear: 6
+Land vehicle: 13
+Vehicle: 17
+Tree: 43
+Plant: 5
+Skyscraper: 1
+Poster: 5
+Window: 5

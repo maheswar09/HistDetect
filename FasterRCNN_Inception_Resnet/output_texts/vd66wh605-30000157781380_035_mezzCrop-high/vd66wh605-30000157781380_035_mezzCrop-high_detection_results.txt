@@ -1,0 +1,22 @@
+Human face: 80
+Clothing: 85
+Woman: 10
+Person: 92
+Human mouth: 10
+Man: 17
+Human eye: 1
+Poster: 3
+Boy: 4
+Girl: 4
+Flower: 2
+Human ear: 1
+Human nose: 4
+Human hair: 1
+Butterfly: 1
+Human hand: 4
+Chair: 1
+Human head: 1
+Footwear: 1
+Flag: 1
+Human arm: 1
+Jeans: 1

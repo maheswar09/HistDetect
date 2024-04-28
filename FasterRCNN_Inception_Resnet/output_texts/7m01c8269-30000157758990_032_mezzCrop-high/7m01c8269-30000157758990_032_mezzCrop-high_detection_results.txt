@@ -1,0 +1,17 @@
+Human face: 18
+Woman: 10
+Man: 18
+Clothing: 28
+Person: 20
+Suit: 1
+Glasses: 1
+Kite: 1
+Tree: 9
+Dress: 4
+Footwear: 2
+Hat: 2
+Drum: 3
+Ice cream: 1
+Dairy: 1
+Poster: 6
+Traffic sign: 4

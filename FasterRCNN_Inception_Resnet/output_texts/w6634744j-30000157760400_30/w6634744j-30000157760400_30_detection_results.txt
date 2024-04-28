@@ -1,0 +1,31 @@
+Window: 66
+Building: 14
+House: 9
+Human face: 24
+Castle: 4
+Person: 88
+Ski: 6
+Snowboard: 5
+Footwear: 46
+Airplane: 1
+Tire: 3
+Clothing: 42
+Vehicle: 1
+Wheel: 1
+Trousers: 1
+Man: 10
+Tree: 18
+Woman: 11
+Girl: 1
+Poster: 7
+Human eye: 1
+Drink: 6
+Swan: 2
+Penguin: 2
+Dog: 3
+Mug: 1
+Flower: 1
+Cat: 1
+Bottle: 4
+Human head: 1
+Toy: 2

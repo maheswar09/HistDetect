@@ -1,0 +1,20 @@
+Clothing: 73
+Tie: 7
+Fashion accessory: 3
+Curtain: 1
+Shirt: 15
+Person: 2
+Vase: 1
+Bottle: 1
+Human hand: 2
+Plant: 1
+Jeans: 1
+Footwear: 3
+Sandal: 1
+Camera: 1
+Sock: 1
+Flag: 1
+Dress: 2
+Flower: 1
+Towel: 1
+Book: 3

@@ -1,0 +1,20 @@
+Tank: 37
+Wheel: 33
+Land vehicle: 26
+Tire: 6
+Vehicle: 22
+Person: 2
+Car: 26
+Weapon: 2
+Tree: 7
+Cannon: 2
+Human face: 4
+Glasses: 4
+Clothing: 3
+Man: 4
+Woman: 1
+Vehicle registration plate: 2
+Plant: 1
+Helicopter: 5
+Tent: 1
+Poster: 5

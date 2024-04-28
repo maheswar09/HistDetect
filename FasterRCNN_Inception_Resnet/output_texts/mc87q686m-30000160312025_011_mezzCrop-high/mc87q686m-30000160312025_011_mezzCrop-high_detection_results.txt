@@ -1,0 +1,41 @@
+Vehicle: 2
+Plate: 4
+Auto part: 5
+Wheel: 1
+Mechanical fan: 2
+Clothing: 50
+Person: 31
+Footwear: 4
+Fashion accessory: 6
+Necklace: 1
+Human face: 40
+Man: 28
+Woman: 10
+Food: 5
+Shellfish: 2
+Tire: 2
+Plant: 1
+Coin: 1
+Fruit: 1
+Baked goods: 5
+Cake: 2
+Bird: 1
+Tableware: 5
+Saucer: 1
+Bottle: 29
+Car: 2
+Beer: 3
+Drink: 3
+Human arm: 1
+Table: 3
+Boat: 1
+Drum: 3
+Musical instrument: 1
+Dessert: 4
+Invertebrate: 1
+Fish: 1
+Frog: 2
+Animal: 1
+Land vehicle: 1
+Poster: 2
+Wine: 2

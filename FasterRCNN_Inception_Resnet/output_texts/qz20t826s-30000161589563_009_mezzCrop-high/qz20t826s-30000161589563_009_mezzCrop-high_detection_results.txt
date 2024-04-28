@@ -1,0 +1,21 @@
+Dog: 2
+Flowerpot: 1
+Flower: 2
+Houseplant: 1
+Glasses: 1
+Human face: 45
+Woman: 37
+Footwear: 80
+Man: 5
+Boy: 7
+Person: 37
+Clothing: 44
+Poster: 5
+Saucer: 1
+Tableware: 1
+Ball: 1
+Jellyfish: 1
+Balloon: 3
+Human leg: 10
+Chair: 1
+Girl: 5

@@ -1,0 +1,16 @@
+Car: 20
+Wheel: 32
+Tree: 5
+Person: 15
+Man: 8
+Clothing: 22
+Footwear: 1
+Tire: 5
+Land vehicle: 2
+Fashion accessory: 4
+Auto part: 1
+Bicycle: 1
+Human hand: 6
+Human face: 5
+Human hair: 1
+Suitcase: 1

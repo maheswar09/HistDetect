@@ -1,0 +1,29 @@
+Flower: 33
+Bird: 3
+Duck: 4
+Mammal: 1
+Human hand: 14
+Poster: 8
+Personal care: 16
+Bottle: 44
+Chair: 15
+Ladder: 14
+Dress: 14
+Person: 20
+Clothing: 11
+Curtain: 18
+Woman: 15
+Human face: 14
+Man: 1
+Stool: 1
+Fashion accessory: 4
+Human foot: 1
+Tin can: 1
+Bathtub: 1
+Table: 2
+Box: 3
+Cat: 1
+Laptop: 1
+Penguin: 1
+Drink: 7
+Tree: 4

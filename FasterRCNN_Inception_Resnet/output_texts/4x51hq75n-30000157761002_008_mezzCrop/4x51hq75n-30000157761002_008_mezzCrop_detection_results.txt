@@ -1,0 +1,18 @@
+Footwear: 7
+Person: 12
+Human leg: 4
+Jeans: 1
+Boot: 2
+Human face: 26
+Man: 31
+Clothing: 39
+Sun hat: 1
+Woman: 1
+Hat: 14
+Helmet: 4
+Land vehicle: 4
+Car: 3
+Tire: 2
+Wheel: 1
+Horse: 2
+Human hand: 2
