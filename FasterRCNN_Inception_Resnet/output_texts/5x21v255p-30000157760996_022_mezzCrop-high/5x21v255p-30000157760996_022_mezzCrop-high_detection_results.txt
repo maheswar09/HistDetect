@@ -1,0 +1,10 @@
+Bottle: 70
+Drink: 12
+Poster: 11
+Tin can: 14
+Clothing: 2
+Person: 1
+Table: 2
+Animal: 1
+Turtle: 3
+Vehicle: 3

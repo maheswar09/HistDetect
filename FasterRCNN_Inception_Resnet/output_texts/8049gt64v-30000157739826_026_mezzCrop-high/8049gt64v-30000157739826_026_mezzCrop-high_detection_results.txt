@@ -1,0 +1,42 @@
+Window: 1
+Plant: 1
+Clothing: 43
+Building: 2
+Person: 32
+Footwear: 12
+Jeans: 1
+Camera: 1
+Human face: 23
+Woman: 19
+Bus: 2
+Wheel: 13
+Auto part: 2
+Land vehicle: 2
+Helicopter: 2
+Car: 14
+Airplane: 7
+Vehicle: 4
+Human hand: 2
+Fashion accessory: 1
+Mirror: 2
+Girl: 2
+Human leg: 1
+Boot: 1
+Bathtub: 1
+Aircraft: 1
+Animal: 1
+Flower: 2
+Toy: 3
+Cake: 1
+Human hair: 2
+Man: 9
+Human mouth: 1
+Sheep: 3
+Elephant: 1
+Cattle: 2
+Tree: 13
+Sock: 2
+Horse: 1
+Castle: 3
+Vehicle registration plate: 1
+Tower: 2

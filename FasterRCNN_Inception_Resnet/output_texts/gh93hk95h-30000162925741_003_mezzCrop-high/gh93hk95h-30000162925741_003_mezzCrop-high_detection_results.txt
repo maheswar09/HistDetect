@@ -1,0 +1,20 @@
+Tree: 3
+Bird: 8
+Monkey: 1
+Person: 7
+Airplane: 1
+Mammal: 4
+Plant: 1
+Animal: 14
+Skull: 2
+Frog: 1
+Flower: 1
+Whale: 1
+Marine mammal: 1
+Whiteboard: 1
+Dinosaur: 1
+Tableware: 2
+Power plugs and sockets: 4
+Poster: 6
+Building: 2
+Toy: 3

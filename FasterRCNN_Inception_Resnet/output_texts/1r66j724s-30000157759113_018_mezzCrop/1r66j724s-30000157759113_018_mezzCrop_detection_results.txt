@@ -1,0 +1,31 @@
+Flower: 8
+Human face: 25
+Person: 12
+Woman: 9
+Umbrella: 1
+Plant: 12
+Table: 12
+Man: 14
+Clothing: 25
+Snack: 7
+Food: 23
+Box: 3
+Cake: 1
+Dessert: 1
+Skyscraper: 1
+Curtain: 1
+Auto part: 2
+Tire: 1
+Book: 5
+Human eye: 1
+Plate: 9
+Animal: 1
+Toilet: 1
+Poster: 16
+Picture frame: 1
+Vehicle: 4
+Car: 1
+Land vehicle: 1
+Human hand: 1
+Wheel: 3
+Tree: 1

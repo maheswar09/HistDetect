@@ -1,0 +1,9 @@
+Animal: 24
+Owl: 7
+Mammal: 4
+Bird: 5
+Flower: 4
+Human face: 10
+Person: 7
+Car: 8
+Wheel: 21

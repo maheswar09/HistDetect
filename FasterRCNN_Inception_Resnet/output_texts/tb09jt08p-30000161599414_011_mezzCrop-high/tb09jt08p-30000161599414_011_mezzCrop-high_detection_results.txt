@@ -1,0 +1,28 @@
+Food: 69
+Spoon: 7
+Kitchen utensil: 2
+Window: 2
+Poster: 2
+Fish: 3
+Rays and skates: 1
+Bowl: 3
+Whale: 1
+Fountain: 3
+Auto part: 4
+Snack: 46
+Camera: 4
+Shower: 1
+Tire: 12
+Tin can: 6
+Popcorn: 4
+Wheel: 10
+Tap: 2
+Human hand: 1
+Vehicle: 1
+Land vehicle: 1
+Oyster: 6
+Dessert: 5
+Fork: 1
+Home appliance: 2
+Door handle: 1
+Bottle: 1

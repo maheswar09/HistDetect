@@ -1,0 +1,22 @@
+Computer keyboard: 17
+Vehicle: 8
+Nail: 1
+Building: 4
+Skyscraper: 8
+Window: 1
+Toy: 9
+Car: 8
+Auto part: 1
+Wheel: 32
+Candy: 1
+Truck: 5
+Land vehicle: 8
+Footwear: 3
+Musical keyboard: 1
+Van: 4
+Person: 5
+Bus: 2
+Clothing: 7
+Man: 6
+Human face: 1
+Poster: 2

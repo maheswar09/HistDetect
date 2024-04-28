@@ -1,0 +1,11 @@
+Poster: 5
+Person: 5
+Clothing: 3
+Toy: 4
+Human face: 4
+Guitar: 2
+Surfboard: 1
+Dog: 1
+Vehicle: 1
+Box: 3
+Bird: 1

@@ -1,0 +1,32 @@
+Vehicle: 2
+Human face: 63
+Man: 61
+Suit: 4
+Hat: 7
+Clothing: 83
+Woman: 10
+Window: 4
+Person: 30
+Door: 12
+Human mouth: 1
+Human nose: 1
+Picture frame: 3
+Footwear: 3
+Land vehicle: 1
+Fedora: 3
+Tie: 1
+Animal: 1
+Mammal: 3
+Human head: 1
+Poster: 12
+Marine mammal: 1
+Tree: 3
+Bird: 1
+Pillow: 1
+House: 3
+Furniture: 1
+Building: 1
+Necklace: 1
+Fashion accessory: 2
+Vehicle registration plate: 5
+Book: 2

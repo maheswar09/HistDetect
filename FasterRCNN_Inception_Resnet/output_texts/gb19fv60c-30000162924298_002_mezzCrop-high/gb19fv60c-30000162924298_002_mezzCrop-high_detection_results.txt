@@ -1,0 +1,3 @@
+Mobile phone: 2
+Poster: 2
+Toothbrush: 1

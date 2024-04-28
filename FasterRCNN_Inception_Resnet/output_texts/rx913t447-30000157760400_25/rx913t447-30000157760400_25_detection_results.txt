@@ -1,0 +1,22 @@
+Window: 5
+Person: 18
+Human face: 19
+Clothing: 33
+Man: 20
+Land vehicle: 8
+Tree: 2
+Building: 1
+Vehicle: 7
+Footwear: 2
+Boat: 2
+Train: 4
+Auto part: 1
+House: 1
+Glasses: 8
+Wheel: 2
+Human mouth: 1
+Human head: 1
+Human hand: 1
+Human nose: 1
+Poster: 5
+Flower: 1

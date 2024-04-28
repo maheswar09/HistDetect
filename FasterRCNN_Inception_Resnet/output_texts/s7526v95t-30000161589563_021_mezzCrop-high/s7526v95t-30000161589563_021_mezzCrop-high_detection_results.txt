@@ -1,0 +1,34 @@
+Knife: 1
+Fashion accessory: 1
+Footwear: 27
+Mammal: 16
+Chair: 1
+Furniture: 3
+Cat furniture: 1
+Person: 35
+Human face: 37
+Panda: 2
+Animal: 5
+Owl: 1
+Toy: 1
+Bird: 1
+Skull: 2
+Envelope: 1
+Poster: 4
+Human hand: 15
+Clothing: 48
+Glove: 3
+High heels: 1
+Sandal: 1
+Man: 3
+Sock: 5
+Human leg: 1
+Human foot: 1
+Trousers: 2
+Airplane: 1
+Sports equipment: 1
+Boy: 16
+Wheel: 30
+Land vehicle: 1
+Car: 15
+Girl: 6

@@ -1,0 +1,20 @@
+Person: 55
+Human face: 45
+Clothing: 91
+Boy: 7
+Table: 9
+Toy: 6
+Girl: 1
+Man: 7
+Curtain: 11
+Bed: 46
+Couch: 1
+Medical equipment: 1
+Woman: 12
+Human hand: 2
+Glove: 1
+Flag: 3
+Tent: 9
+Window: 6
+Door: 1
+Dress: 4

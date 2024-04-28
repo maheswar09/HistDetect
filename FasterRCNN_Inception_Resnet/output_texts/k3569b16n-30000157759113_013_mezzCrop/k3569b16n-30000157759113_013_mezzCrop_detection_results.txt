@@ -1,0 +1,40 @@
+Vehicle: 1
+Houseplant: 2
+Man: 25
+Clothing: 56
+Human face: 36
+Footwear: 38
+Dress: 10
+Woman: 33
+Girl: 11
+Suit: 6
+Curtain: 1
+Furniture: 2
+Tree: 7
+Person: 14
+Boat: 29
+Tower: 8
+House: 2
+Land vehicle: 1
+Car: 1
+Chair: 5
+Table: 15
+Spoon: 3
+Flower: 28
+Book: 4
+Platter: 3
+Box: 6
+Balloon: 2
+Snack: 1
+Dairy: 10
+Milk: 2
+Tableware: 7
+Auto part: 2
+Bowl: 1
+Kitchen appliance: 1
+Coffee cup: 8
+Saucer: 10
+Food: 3
+Dessert: 2
+Poster: 16
+Billboard: 13

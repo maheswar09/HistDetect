@@ -1,0 +1,10 @@
+Person: 8
+Window: 1
+Vehicle: 2
+Human nose: 1
+Human face: 4
+Clothing: 2
+Skull: 1
+Woman: 1
+Box: 1
+Poster: 4
