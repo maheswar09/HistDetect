@@ -1,5 +1,7 @@
 # HistDetect
 
+# Faster RCNN Inception Resnet V2 on Google Open Images Dataset
+
 ## Project Description
 This project utilizes TensorFlow and TensorFlow Hub to perform object detection on video files. It processes video files to detect objects using the Faster R-CNN model hosted on TensorFlow Hub and outputs detection results in text files.
 
@@ -14,6 +16,7 @@ Clone the repository and navigate to your project directory:
 ```bash
 git clone https://github.com/maheswar09/HistDetect.git
 cd HistDetect
+cd FasterRCNN_Inception_ResNet
 ```
 
 ## Creating a Virtual Environment
@@ -111,4 +114,126 @@ After running `object_detection.py`, the following images with detected objects 
 ![Image 2](FasterRCNN_Inception_Resnet/output_images/frame_0014.jpg)
 
 These images show the detected objects with bounding boxes, illustrating the model's ability to identify and localize objects within frames extracted from the video.
+
+# Faster RCNN with resnet50 on Custom Dataset
+
+## Project Description
+This project utilizes pytorch to perform object detection on video files. It processes video files to detect objects using the Faster R-CNN model loaded and outputs detection results in text files.
+
+## Prerequisites
+- Python 3.10+
+- pip (Python package installer)
+- Virtual environment (recommended)
+
+## Environment Setup
+
+Clone the repository and navigate to your project directory:
+```bash
+git clone https://github.com/maheswar09/HistDetect.git
+cd HistDetect
+cd FasterRCNN_ResNet50_Custom_Classes
+```
+
+## Installing Dependencies
+Install all required packages using pip:
+```bash
+pip install torch torchvision
+```
+
+### syntheticDataGeneration.py
+
+**Description:**
+This script takes the path to the individual classes dataset (where the folder names are the names of the classes), and the number of images to be generated. This generates the composite data (synthetic data) in the folder output_dataset and prints out the number of images used per class in all the composite images generated.
+
+**Pre-requisites:**
+Ensure that there is a folder named archive containing the individual dataset classwise
+
+**Modifications Required:**
+- Ensure the path to the folder containing the individual dataset is correctly set in the script.
+
+**Running the Script:**
+Update the paths accordingly in the script to point to the folder containing the individual dataset.
+
+To run `syntheticDataGeneration.py`, execute the following command from your terminal:
+```bash
+python syntheticDataGeneration.py
+```
+
+### model.py
+
+**Description:**
+This script takes the path to the synthetic generated data, downloads the pretrained model to fine tune further, and hence train the model on this custom dataset. It also does evaluation and prints the IOU for each class.
+
+**Pre-requisites:**
+Ensure that there is a folder named output_dataset
+
+**Modifications Required:**
+- Ensure the path to the folder containing the synthetic data is correctly set in the script
+
+**Running the Script:**
+Update the paths accordingly in the script to point to the folder containing the synthetic data. You can also download the synthetic data that we generated using the below drive link:
+
+To run `model.py`, execute the following command from your terminal:
+```bash
+python model.py
+```
+
+### evaluate.py
+
+**Description:**
+This script takes the path to the test data, loads the fine tuned model, and hence evaluates the images and saves the images with bounding boxes, along with confidence scores and labels printed on it.
+
+**Pre-requisites:**
+Ensure that the training is done using the model.py . This saves the model as model.pth and also ensure there is a folder named test.
+
+**Modifications Required:**
+- Ensure the path to the folder containing the test and model.pth is correctly set in the script
+
+**Running the Script:**
+Update the paths accordingly in the script to point to the folder containing the test.
+
+To run `evaluate.py`, execute the following command from your terminal:
+```bash
+python evaluate.py
+```
+
+### PipelineToReturnObjectsForVideo.py
+
+**Description:**
+This script takes the path to the folder containing the videos and outputs the text document and frames of the video respectively for each video in a separate folder.
+
+**Pre-requisites:**
+Ensure that the training is done using the model.py . This saves the model as model.pth
+
+**Modifications Required:**
+- Ensure the path to the folder containing the videos and the output base folder, model.pth is correctly set in the script
+
+**Running the Script:**
+Update the paths accordingly
+
+To run `PipelineToReturnObjectsForVideo.py`, execute the following command from your terminal:
+```bash
+python PipelineToReturnObjectsForVideo.py
+```
+
+### Precision_Recall.py
+
+**Description:**
+This script takes the path to the test folder and the trained model and outputs the precision-recall curve used for further analysis
+
+**Pre-requisites:**
+Ensure that the training is done using the model.py . This saves the model as model.pth
+
+**Modifications Required:**
+- Ensure the path to the folder containing the test images, model.pth is correctly set in the script
+
+**Running the Script:**
+Update the paths accordingly
+
+To run `Precision_Recall.py`, execute the following command from your terminal:
+```bash
+python Precision_Recall.py
+```
+
+### Results
 
