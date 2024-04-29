@@ -281,7 +281,7 @@ Update the paths accordingly in the script and run the ipynb file from cell to c
 
 After running `FasterRCNN_Coco.ipynb`, the following images with detected objects and bounding boxes were generated:
 
-![Image 1](FasterRCNN_ResNet50_Coco/1.png)
+![Image 1](FasterRCNN_ResNet50_Coco/Pred_122.png)
 
 These images show the detected objects with bounding boxes, illustrating the model's ability to identify and localize objects within frames extracted from the video.
 
