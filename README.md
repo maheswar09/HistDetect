@@ -237,3 +237,51 @@ python Precision_Recall.py
 
 ### Results
 
+After running `evaluate.py`, the following images with detected objects and bounding boxes were generated:
+
+![Image 1](FasterRCNN_ResNet50_Custom_Classes/1.jpg)
+![Image 2](FasterRCNN_ResNet50_Custom_Classes/2.jpg)
+![Image 3](FasterRCNN_ResNet50_Custom_Classes/3.jpg)
+
+These images show the detected objects with bounding boxes, illustrating the model's ability to identify and localize objects within frames extracted from the video.
+
+# Faster RCNN with resnet50 on COCO Dataset
+
+## Project Description
+This project utilizes pytorch to perform object detection on video files. It processes video files to detect objects using the Faster R-CNN model loaded and outputs detection results in text files.
+
+## Prerequisites
+- Python 3.10+
+- pip (Python package installer)
+
+## Environment Setup
+
+Clone the repository and navigate to your project directory:
+```bash
+git clone https://github.com/maheswar09/HistDetect.git
+cd HistDetect
+cd FasterRCNN_ResNet50_Coco
+```
+
+## Installing Dependencies
+Install all required packages using pip:
+```bash
+pip install torch torchvision
+```
+
+### FasterRCNN_ResNet50_Coco.ipynb
+
+**Description:**
+This script takes the path to the videos folder and the output base folder where the frames are to be saved. It downloads the pretrained model on coco dataset and has all 80 class labels, which are used to convert indexes to class names during prediction
+
+**Running the Script:**
+Update the paths accordingly in the script and run the ipynb file from cell to cell
+
+### Results
+
+After running `FasterRCNN_Coco.ipynb`, the following images with detected objects and bounding boxes were generated:
+
+![Image 1](FasterRCNN_ResNet50_Coco/1.jpg)
+
+These images show the detected objects with bounding boxes, illustrating the model's ability to identify and localize objects within frames extracted from the video.
+
